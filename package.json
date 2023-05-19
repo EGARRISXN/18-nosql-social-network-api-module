@@ -1,0 +1,37 @@
+{
+  "name": "18-nosql-social-network-api-module",
+  "version": "1.0.0",
+  "description": "NoSQL Social Network API Module 18",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EGARRISXN/18-nosql-social-network-api-module.git"
+  },
+  "keywords": [
+    "NoSQL",
+    "Social",
+    "Netowork",
+    "API",
+    "Mongoose",
+    "MongoDB",
+    "Express.js"
+  ],
+  "author": "Ethan Garrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EGARRISXN/18-nosql-social-network-api-module/issues"
+  },
+  "homepage": "https://github.com/EGARRISXN/18-nosql-social-network-api-module#readme"
+}
